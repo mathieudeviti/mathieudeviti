@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Mathieu (He/Him) 🚀
+
+🧠 Data Scientist at Santander UK
+👨‍🎓 Engineering Degree in Data Science and Artificial Intelligence from [ESIEE Paris](https://www.esiee.fr/en/programmes/engineer/major/datascience-and-artificial-intelligence)
+😆 Probably busy reading my 37th book of the year
+
 
 <!--
 **mathieudeviti/mathieudeviti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
